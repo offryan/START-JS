@@ -1,5 +1,5 @@
 # JSTeste
-16 páginas diferentes testando o JavaScript:
+16 páginas usando aplicações do JavaScript:
 
 Hello World!
 Declarando Variáveis
