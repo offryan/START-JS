@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="pt-br">
+    <meta charset="utf-8" />
+    <title>Aposentadoria </title>
+</head>
+<body>
+
+
+    <div class="valor">
+        <label>Nome:</label>
+        <input type="text" id="txtNome" />
+    </div>
+    <div class="valor">
+        <label> Ano Atual  </label>
+        <input type="text" id="txtAno" />
+    </div>
+    <div class="valor">
+        <label>Ano de Admissão </label>
+        <input type="text" id="txtAnoAdmissao" />
+    </div>
+    <div class="valor">
+        <label>Ano de Nascimento </label>
+        <input type="text" id="txtAnoNascimento" />
+    </div>
+    <div class="valor">
+        <input type="button" value="Verificar!" onclick="aposentadoria();" />
+    </div>
+
+    <hr />
+
+    <div class="valor">
+        <label>Nome: </label>
+        <br />
+        <input type="text" id="txtNome" readonly />
+    </div>
+
+    <div class="valor">
+        <label>Idade: </label>
+        <br />
+        <input type="text" id="txtIdade" readonly />
+    </div>
+
+    <div class="valor">
+
+        <label>Tempo de Trabalho: </label>
+        <br />
+        <input type="text" id="txtTrab" readonly />
+    </div>
+    <div class="valor">
+
+        <label>Situação: </label>
+        <br />
+        <input type="button" value="resultado!" onclick="resultado();" />
+    </div>
+
+    <script type="text/javascript" src="js/CalcularAposentadoria.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Trabalhando com HTML DOM</title>
+
+<style type="text/css" >
+    #dvQuadrado{
+        display:table-cell;
+        text-align:center;
+        vertical-align:middle;
+        width:300px;
+        height:300px;
+        border:1px solid black;
+    }
+
+</style>
+</head>
+<body>
+    <div id="dvQuadrado">Hello World!</div>
+    <hr />
+    <br />
+    <label>Cor de Fundo</label> <input type="text" id="txtCorFundo" />
+    <br />
+    <label>Cor da Fonte</label> <input type="text" id="txtCorFonte" />
+    <br />
+    <label>Tamanho da Fonte</label> <input type="text" id="txtTamanhoFonte" />
+    <br />
+    <label>Texto</label> <input type="text" id="txtTexto" />
+    <br />
+    <input type="button" id="btnTrocar" value="TrocarValores" onclick="ManipularCampo();"  />
+
+
+    <script type="text/javascript" src="js/TrabalhandoDOM.js"></script>
+</body>
+</html>
