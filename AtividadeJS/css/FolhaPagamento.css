@@ -7,10 +7,14 @@
 .container {
     max-width:700px;
     background-color:#f2f2f2;
-    border-radius:5px;
+    border-radius:10px;
     padding:20px;
     margin-top:10px;
-    transform: translate(50%, 50%);
+    top: 700px;
+    left: 700px;
+    transform: translate(40%, 50%);
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .row{
@@ -32,13 +36,13 @@ input[type=text], input[type=number]{
 input[type=text]:read-only{
     background:none;
     font-weight:bold;
-    color: blue;
+    color: rgb(98, 53, 166);
 }
 
 input[type=button]{
     background-color: #4CAF50;
     color: #ffffff;
-    padding:20px;
+    padding:15px;
     border:none;
     border-radius:4px;
     float:right;
@@ -54,10 +58,13 @@ label{
 }
 
 #dvResultados{
+    text-align: center;
     display:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1{
+    font-size: x-large;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Verdana
 }

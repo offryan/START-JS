@@ -13,7 +13,6 @@
         document.getElementById('txtDependentes').value = 0;
     }
 
-
     let nome;
     let salario;
     let dependentes;
