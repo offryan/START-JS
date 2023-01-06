@@ -1,4 +1,4 @@
-Sim, não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos.
+Não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos
 
 # 1° vez no JavaSript
 
