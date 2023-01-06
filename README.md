@@ -1,6 +1,6 @@
-## 1° vez no JavaSript
+Sim, não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos.
 
-# Sim, não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos.
+# 1° vez no JavaSript
 
 # 16 páginas usando aplicações do JavaScript:
 
