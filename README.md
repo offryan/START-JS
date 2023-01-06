@@ -1,8 +1,7 @@
-[Não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos]
+[ Não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos ]
+[ Primeiros códigos em JavaSript ]
 
-# 1° vez no JavaSript
-
-# 16 páginas usando aplicações do JavaScript:
+16 páginas usando aplicações do JavaScript:
 
 Hello World!
 Declarando Variáveis
