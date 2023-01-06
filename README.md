@@ -1,5 +1,8 @@
-# JSTeste
-16 páginas usando aplicações do JavaScript:
+## 1° vez no JavaSript
+
+# Sim, não houve reajuste para poder ver minha evolução daqui alguns anos, não recomendo que reutilize esses códigos.
+
+# 16 páginas usando aplicações do JavaScript:
 
 Hello World!
 Declarando Variáveis
